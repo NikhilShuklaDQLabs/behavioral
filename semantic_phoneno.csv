@@ -1,0 +1,20 @@
+attribute_name,measure_name,value,valid_count,invalid_count,type,category
+PHONE,9,2964,2964,7748036,frequency,length
+PHONE,0,2383181,2383181,5367819,frequency,length
+PHONE,12,5364855,5364855,2386145,frequency,length
+PHONE,Empty,0,0,0,pattern,pattern
+PHONE,Text Only,0,0,0,pattern,pattern
+PHONE,Numeric Only,0,0,0,pattern,pattern
+PHONE,With Space,0,0,0,pattern,pattern
+PHONE,Alpha Numerics,0,0,0,pattern,pattern
+PHONE,With Special Characters,0,0,0,pattern,pattern
+PHONE,digits_count,48581,48581,7702419,distribution,
+PHONE,whitespace_count,0,0,7751000,distribution,
+PHONE,characters_count,0,0,7751000,distribution,
+PHONE,special_char_count,48581,48581,7702419,distribution,
+PHONE,null_count,21419,21419,7801581,health,
+PHONE,blank_count,0,0,7823000,health,
+PHONE,distinct_count,48581,48581,7774419,health,
+PHONE,duplicate,21419,21419,7801581,health,
+PHONE,min_length,9,0,0,health,
+PHONE,max_length,12,0,0,health,
